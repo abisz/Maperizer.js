@@ -1,7 +1,7 @@
 (function(window, google, maperizer) {
 
     maperizer.MAP_OPTIONS = {
-        geolocation: false,
+        geolocation: true,
         center: {
             lat: 0,
             lng: 0

@@ -25,7 +25,6 @@ You need to create an object containing all the configuration your map needs. Ad
 | geolocation | boolean | if true and client allows it, the center of the map will be the location of the client 
 | center | object containing lat and lng | the center of the map, fallback if geolocation is denied 
 | searchbox | boolean | true if searchbox is wanted 
-| createSingleMarker | boolean | adds functionality for adding one marker to the map and reposition it with clickevents 
 | cluster | boolean | if true markerclustering is activated 
 | geocoder | boolean | if true geocoding functionality is enabled 
 
