@@ -14,7 +14,7 @@
             name: 'click',
             callback: function(event){
 
-                $maperizer.maperizer('removeMarkers', function(marker){
+                $mmaperizer.maperizer('removeMarkers', function(marker){
                     return marker.newMarker === true;
                 });
 
